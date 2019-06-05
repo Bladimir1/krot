@@ -1,0 +1,14 @@
+.hole{
+	background-image: url('dirt.svg');
+	width: 500px;
+	height: 150px;
+	margin-left: 50px;
+	margin-top: 150px;
+}
+.krot{
+	position: absolute;
+	width: 150px;
+}
+.main{
+	display: flex;
+}
